@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi, I'm Shifra!
 #### Software Developer
-![Software Developer](https://media.licdn.com/dms/image/v2/D4D16AQGVy319Xa4NQA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715855399450?e=1746057600&v=beta&t=BDsYKC7YdA9pEGJ0cjFHFioio3qkivj8cwR2jHCwpcg)
+![Software Developer](https://github.com/shifrawexler/shifrawexler/blob/main/linked%20in%20banner.jpg)
 
 I love learning, exploring new tech, and solving problems through code. Passionate about innovation and impact-driven projects. Let's build something great!
 
