@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Shifra!
+###👋, Hi, I'm Shifra!
 #### Software Developer
 ![Software Developer](https://github.com/shifrawexler/shifrawexler/blob/main/linked%20in%20banner.jpg)
 
