@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Shifra!
 
 
-#### Software Developer
+#### Cybersecurity Professional and Software Developer
 ![Software Developer](https://github.com/shifrawexler/shifrawexler/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 I love learning, exploring new tech, and solving problems through code. Passionate about innovation and impact-driven projects. Let's build something great!
