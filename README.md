@@ -20,6 +20,10 @@ B.Sc. in Computer Science
 
 ## Projects 🚀
 
+- **🔒 Secure Password Generator** – Python web app for generating strong passwords and securely storing them in a password vault.
+  
+- **🛡️ SYN Flood Detection Script** – Python script using Scapy to analyze PCAP files and identify source IPs involved in SYN flood (DoS) attacks.
+
 - **🔍 Violence Detection Camera** – Real-time security alert system detecting violence in security cameras (Hackathon 2024)
 
 - **📖 Hebrew Text Simplification** – Simplifying complex texts to help kids with learning disabilities (Hackathon 2023)
