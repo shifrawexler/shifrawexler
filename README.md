@@ -14,6 +14,13 @@ I love learning, exploring new tech, and solving problems through code. Passiona
 
 B.Sc. in Computer Science
 
+
+[**CyberWise**](https://www.cyberwisecourse.com/)
+
+Cybersecurity Training
+
+
+
 ## Tech Stack 🛠️
 
 🐍 Python | ☕ Java | 🔣 C#, C++ | 🏗️ .NET | 🗄️ SQL | 🌐 Networking | 🤖 Machine Learning
